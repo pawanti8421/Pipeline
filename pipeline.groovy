@@ -9,7 +9,7 @@ pipeline {
         }
         stage('How'){
             steps{
-                echo 'How are you Pawan?'
+                echo 'How are you?'
             }
         }
         stage('Why'){
